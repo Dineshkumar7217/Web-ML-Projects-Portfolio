@@ -1,0 +1,160 @@
+# 📧 Spam Email Classifier using Machine Learning
+
+A Machine Learning-based Spam Email Classification System that automatically identifies whether an email is **Spam** or **Ham (Not Spam)** using Natural Language Processing (NLP) techniques and classification algorithms.
+
+## 🚀 Features
+
+- Email text preprocessing
+- TF-IDF feature extraction
+- Spam/Ham classification
+- Naive Bayes Model
+- Logistic Regression Model
+- Model accuracy comparison
+- Confusion Matrix visualization
+- Real-time email prediction
+- Performance evaluation metrics
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- NLP
+- TF-IDF Vectorization
+
+## 📂 Dataset
+
+The project uses a real-world email dataset containing:
+
+- 5,728 Emails
+- Spam Emails
+- Ham (Legitimate) Emails
+
+Dataset Source:
+https://github.com/OmkarPathak/Playing-with-datasets
+
+## ⚙️ Machine Learning Workflow
+
+1. Data Collection
+2. Data Preprocessing
+3. Text Cleaning
+4. TF-IDF Vectorization
+5. Train-Test Split
+6. Model Training
+7. Model Evaluation
+8. Prediction and Visualization
+
+## 🤖 Algorithms Used
+
+### Naive Bayes
+- Fast and efficient text classification
+- Suitable for spam detection
+
+### Logistic Regression
+- High classification accuracy
+- Effective binary classification
+
+## 📊 Evaluation Metrics
+
+The following metrics are used:
+
+- Accuracy Score
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+
+## 📈 Output
+
+The system generates:
+
+- Classification Report
+- Model Accuracy Comparison
+- Confusion Matrix
+- Spam Probability Prediction
+
+Example:
+
+Email:
+"Congratulations! You've won $1,000,000"
+
+Prediction:
+Spam ✅
+
+---
+
+Email:
+"Meeting rescheduled to 4 PM"
+
+Prediction:
+Ham ✅
+
+## 📁 Project Structure
+
+```
+Spam-Email-Classifier/
+│
+├── spam_email_classifier.py
+├── spam_classifier_results.png
+├── README.md
+└── requirements.txt
+```
+
+## ▶️ How to Run
+
+### Clone Repository
+
+```bash
+git clone https://github.com/your-username/Spam-Email-Classifier.git
+```
+
+### Navigate to Project Folder
+
+```bash
+cd Spam-Email-Classifier
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Project
+
+```bash
+python spam_email_classifier.py
+```
+
+## 📷 Sample Output
+
+The application provides:
+
+- Email Classification
+- Spam Probability
+- Accuracy Comparison Chart
+- Confusion Matrix Visualization
+
+## 🎯 Future Enhancements
+
+- Deep Learning Models
+- Email Attachment Analysis
+- Web-based Interface
+- Real-time Email Monitoring
+- Deployment using Flask/Django
+
+## 👨‍💻 Author
+
+**Dinesh**
+
+Computer Science Engineer  
+Machine Learning & AI Enthusiast
+
+GitHub:
+https://github.com/Dineshkumar7217
+
+---
+
+⭐ If you like this project, don't forget to star the repository.
