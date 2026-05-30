@@ -1,0 +1,14 @@
+# Requirements for both projects
+# Install with: pip install -r requirements.txt
+
+# Common
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+scipy>=1.11.0
+
+# Spam Classifier (Hugging Face)
+datasets>=2.14.0
+
+# Movie Recommendation (auto-downloads MovieLens via urllib — no extra dep needed)
