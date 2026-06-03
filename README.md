@@ -97,7 +97,7 @@ Classification model to identify spam and legitimate emails.
 **Technologies:**
 
 * Python
-* NLP
+* AI
 * Machine Learning
 
 ---
@@ -115,7 +115,7 @@ Classification model to identify spam and legitimate emails.
 
 * HTML5
 * CSS3
-* React.js
+
 
 ### Databases
 
