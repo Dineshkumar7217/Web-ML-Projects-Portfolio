@@ -6,7 +6,6 @@ Welcome to my project portfolio repository. This repository contains a collectio
 
 I am Dinesh Kumar, a Computer Science Engineering student passionate about:
 
-* Full Stack Development
 * Machine Learning & AI
 * Database Management Systems
 * Software Development
