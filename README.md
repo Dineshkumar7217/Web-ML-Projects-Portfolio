@@ -1,23 +1,158 @@
-Hi there! 👋
+# 🚀 Computer Science Projects Portfolio
 
+Welcome to my project portfolio repository. This repository contains a collection of projects developed during my academic journey and self-learning process in Web Development, Machine Learning, SQL, and Software Engineering.
 
-Welcome to my GitHub profile! I'm passionate about web development, databases, and software engineering.
+## 👨‍💻 About Me
 
-💻 About Me
-🔎 Exploring opportunities in SQL development, Java programming, and distributed systems.
-🌱 Currently learning real-time operating systems (RTOS) and embedded programming.
-🚀 Developing projects using HTML, CSS, JavaScript, SQL, MySQL, and XAMPP.
-🛠 Skills and Tools
+I am Dinesh Kumar, a Computer Science Engineering student passionate about:
 
-Programming Languages: Java, SQL
+* Full Stack Development
+* Machine Learning & AI
+* Database Management Systems
+* Software Development
+* Problem Solving
 
-Web Technologies: HTML, CSS, JavaScript
+---
 
-Database Management: MySQL
+## 📂 Projects Included
 
-Development Tools: Apache NetBeans, XAMPP
+### 🩺 Diabetes Prediction System
 
-Concepts: Distributed Systems, Embedded Systems, Real-Time Operating Systems
+Machine Learning model for predicting diabetes based on medical parameters.
 
-Connect With Me:
+**Technologies:**
+
+* Python
+* Pandas
+* Scikit-Learn
+* NumPy
+
+---
+
+### 🌐 Portfolio Website
+
+Personal developer portfolio showcasing skills, projects, and achievements.
+
+**Technologies:**
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+### 🍽️ Restaurant Management System
+
+Web-based application for restaurant operations and management.
+
+**Technologies:**
+
+* HTML
+* CSS
+* JavaScript
+* SQL
+
+---
+
+### ❤️ Smart Health Prediction System
+
+Healthcare prediction application using machine learning algorithms.
+
+**Technologies:**
+
+* Python
+* Machine Learning
+* Data Analysis
+
+---
+
+### 🎓 Student Management System
+
+System for managing student records and academic information.
+
+**Technologies:**
+
+* Java
+* SQL
+* Database Management
+
+---
+
+### 🌾 Tamil Nadu Crop Production Prediction
+
+Machine learning project for crop production prediction and agricultural analysis.
+
+**Technologies:**
+
+* Python
+* Machine Learning
+* Data Visualization
+
+---
+
+### 📧 Spam Email Classifier
+
+Classification model to identify spam and legitimate emails.
+
+**Technologies:**
+
+* Python
+* NLP
+* Machine Learning
+
+---
+
+## 🛠 Technologies Used
+
+### Programming Languages
+
+* Java
+* Python
+* JavaScript
+* SQL
+
+### Web Technologies
+
+* HTML5
+* CSS3
+* React.js
+
+### Databases
+
+* MySQL
+* SQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* NetBeans
+
+### Machine Learning
+
+* Scikit-Learn
+* Pandas
+* NumPy
+
+---
+
+## 🎯 Learning Objectives
+
+* Build real-world software solutions
+* Strengthen programming skills
+* Apply machine learning techniques
+* Develop full-stack applications
+* Improve problem-solving abilities
+
+---
+
+## 📫 Contact
+
+**Dinesh**
+
+GitHub: https://github.com/Dineshkumar7217
 Gmail : dineshdk6125@gmail.com
+---
+
+⭐ If you find these projects useful, consider giving this repository a star.
